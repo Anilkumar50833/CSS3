@@ -1,0 +1,12 @@
+body{
+    background-color:#f1f;
+}
+div{
+    border-top-style: dotted;
+    border-left-style: hidden;
+    border-right-style: dashed;
+    border-bottom-style: inset;
+}
+h1{
+    border: 5px 
+}

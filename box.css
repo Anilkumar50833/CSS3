@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#box{
+    width: 400px;
+    height: 400px;
+    border:1px solid rgb(117, 240, 143);
+    margin: 100px 400px;
+    box-shadow: 2px 3px 100px 10px #0fd30f;
+
+
+}

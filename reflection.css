@@ -1,0 +1,15 @@
+body
+				{
+					height: 100vh;
+					background: radial-gradient(red,yellow);
+                
+				}
+img
+{
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+    margin: 100px 250px;
+    -webkit-box-reflect:below 1px linear-gradient(transparent,transparent,#0004);
+
+}

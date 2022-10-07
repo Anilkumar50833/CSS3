@@ -1,0 +1,7 @@
+body{
+    background-image: url("../images/ani.JPG"),url("../images/flag.jpg");
+    background-position:;
+    background-repeat:no-repeat;
+    background-size: 1350px 700px;
+    background-blend-mode:darken;
+}

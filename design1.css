@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("../images/gif2.gif");
+    background-repeat: no-repeat;
+    background-position: none;
+    background-size:cover;
+    width: 100%;
+    height: 300px;
+}
+header{
+    width: 110%;
+    height: 75px;
+    background-color: chartreuse;
+}
+.links{
+    float: right;
+    padding: 0 150px;
+    margin:40px 0;
+}
+a{
+    font-size: 25px;
+    font-family:  serif;
+}
+a:hover{
+    background-color: blue;
+    border-radius: 5px;
+}
+span{
+    font-size: 50px;
+    font-family: georgia;
+    
+}
+div{
+             width:300px;
+			height: 200px;
+			border:2px solid rgb(248, 10, 10);
+			
+            margin:100px 15px;
+			box-sizing:content-box;
+            transition: all 2s ease-in-out;
+            transform: rotate(-30deg);
+            transform: scaleX();
+            float:left;
+}
